@@ -1,0 +1,3 @@
+[submodule "MTechEngine"]
+	path = MTechEngine
+	url = https://github.com/Luigifan/MTechEngine.git
